@@ -4,19 +4,19 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   head: (
     <>
-      <title>JumpServer 技术白皮书</title>
+      <title>MaxKB 技术白皮书</title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <link rel="icon" href="/whitepaper/logo.png" />
+      <link rel="icon" href="/whitepaper/MaxKB-03.png" />
     </>
   ),
   logo: (
     <>
       <img
-        src="/whitepaper/logo.png"
-        alt="JumpServer 技术白皮书"
+        src="/whitepaper/MaxKB-03.png"
+        alt="MaxKB 技术白皮书"
         style={{ height: 24, marginRight: 8 }}
       />
-      <span style={{ fontWeight: 600 }}>JumpServer 技术白皮书</span>
+      <span style={{ fontWeight: 600 }}>MaxKB 技术白皮书</span>
     </>
   ),
   footer: {
@@ -39,7 +39,7 @@ const config: DocsThemeConfig = {
     component: ({ className }) => (
       <a
         className={className}
-        href="https://github.com/jumpserver/whitepaper"
+        href="https://github.com/1Panel-dev/MaxKB-Whitepaper"
         target="_blank"
         rel="noreferrer"
       >
@@ -49,7 +49,7 @@ const config: DocsThemeConfig = {
   },
   feedback: {
     content: '有问题？点此反馈 →',
-    useLink: () => 'https://github.com/jumpserver/whitepaper/issues'
+    useLink: () => 'https://github.com/1Panel-dev/MaxKB-Whitepaper/issues'
   },
   themeSwitch: {
     useOptions: {
