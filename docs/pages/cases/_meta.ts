@@ -1,8 +1,8 @@
 export default {
-  sf: { title: 'JumpServer 护航顺丰科技超大规模资产安全运维' },
-  jxnx: { title: 'JumpServer 助力江苏农信行业云安全运维' },
-  xhs: { title: '小红书 JumpServer 大规模资产跨版本迁移之路' },
-  tencent: { title: '腾讯海外游戏基于JumpServer构建游戏安全运营能力' },
-  huolala: { title: '货拉拉通过JumpServer纳管大规模云上资产' },
-  wanhua: { title: '万华化学通过JumpServer管理全球化分布式IT资产，并且实现与云管平台的联动' }
+  zgnd: { title: '12.1.中国农业大学构建“小鹉哥”助力师生咨询及科研教学' },
+  dbcjdx: { title: '12.2.东北财经大学构建校园智慧 AI 助理 “小银杏”' },
+  yyx: { title: '12.3.弋阳县政府构建"弋心一意"小助手提升企业群众办事体验和满意度' },
+  zgtm: { title: '12.4.中国土木工程集团构建“财小问”智能体提升财务管理效率' },
+  dslr: { title: '12.5.都市丽人构建“智慧导购”门店销售智能体提升销售业绩' },
+  szt: { title: '12.6.深圳市深圳通有限公司构建 AI 智能客服提升客服效率并提高客户满意度' }
 }
