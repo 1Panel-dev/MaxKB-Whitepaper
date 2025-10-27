@@ -1,5 +1,5 @@
 export default {
-  Introduction: { title: '1. 引言' },
+  index: { title: '1. 引言' },
   Development: { title: '2.生成式 AI 的发展浪潮与智能体的兴起' },
   Value: { title: '3.企业智能体的价值与建设挑战' },
   Implementation: { title: '4.企业智能体的落地公式' },
