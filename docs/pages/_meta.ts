@@ -10,7 +10,7 @@ export default {
   Construction: { title: '9.企业智能体的建设内容与组织支持' },
   Technologies: { title: '10.企业智能体建设的关键技术' }, 
   MaxKB: { title: '11.MaxKB：企业级智能体平台' }, 
-  Case: { title: '12.企业智能体建设成功案例' }, 
+  cases: { title: '12.企业智能体建设成功案例' }, 
   Reference: { title: '13.参考链接' }, 
   contact: {title: '14. 联系我们' }
 }
