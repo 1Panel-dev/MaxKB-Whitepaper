@@ -7,8 +7,12 @@ const withNextra = nextra({
 
 export default withNextra({
   reactStrictMode: true,
-  output: 'export',
+  // output: 'export',
   images: {
     unoptimized: true
-  }
+  },webpack(config) {
+    // 关闭 webpack 缓存，避免 VFileMessage 序列化错误
+    config.cache = false
+    return config
+  },
 })
