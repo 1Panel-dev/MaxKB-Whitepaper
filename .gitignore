@@ -1,5 +1,7 @@
 node_modules
 docs/node_modules
 docs/.next
+docs/yarn.lock
+docs/package-lock.json
 out
 .DS_Store
