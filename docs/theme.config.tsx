@@ -22,7 +22,7 @@ const config: DocsThemeConfig = {
   footer: {
     content: (
       <span>
-        2014-2025 版权所有© 杭州飞致云信息科技有限公司
+        2014-2026 版权所有© 杭州飞致云信息科技有限公司
       </span>
     )
   },
